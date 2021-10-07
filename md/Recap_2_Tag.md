@@ -4,7 +4,7 @@
 
 Ergebnis der Rest der nicht mehr in die Zahl hinein geht.
 
-2 % 3 = 1 \
+2 % 3 = 2 \
 5 % 8 = 5 \
 3 % 2 = 1 \
 4 % 2 = 0
