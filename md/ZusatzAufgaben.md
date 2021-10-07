@@ -47,4 +47,25 @@
 48 Buzz
 50 Fizz
 ```
- 
+
+## 3. Integer Function
+
+> Aufgabe
+
+* Schreibe eine Function mit folgender Vorschrift/Signature "static int GetIntegerFromUser()"
+* Beim Aufruf dieser Funktion soll der Nutzer um eine Eingabe gebeten werden auf der Konsole.
+* Nach der Eingabe vom Nutzer soll von der Function ein Integer zurück gegeben werden.
+
+> Beispiel
+
+```C#
+int number = GetIntegerFromUser();
+
+// Nutzer gibt 2 ein
+
+Console.WriteLine(number);
+
+// Ausgabe ist 2.
+```
+
+
