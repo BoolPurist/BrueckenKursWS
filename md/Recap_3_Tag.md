@@ -20,3 +20,15 @@ for (int i = 0; i < 10; i++)
 // Zeile 8
 // Zeile 9
 ```
+
+## string interpolation 
+
+Beispiel:
+
+```C#
+string name = "Dude";
+string end = "Bye bye";
+string satz = $"Hello world {name}, {end}";
+// Anstatt string satz = "Hello world " + name + ", " + end;
+Console.WriteLine(satz);
+```
