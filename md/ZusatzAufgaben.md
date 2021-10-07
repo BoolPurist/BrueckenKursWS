@@ -75,3 +75,80 @@ Console.WriteLine(number);
 
 // Ausgabe ist 2.
 ```
+
+## 4. Gesamt Summe von einem Array
+> Aufgabe
+
+
+* Schreibe eine Function namens "SummeArray"
+* Diese Funktion soll eine Array mit element von type int als Parameter bekommen. Diese Funktion soll die Summe alle Element des Arrays zurück geben.
+
+> Beispiel:
+
+```C#
+int[] numbers = new int[3];
+numbers[0] = 2;
+numbers[1] = 4;
+numbers[2] = 5;
+
+int summe = SummeArray(numbers);
+Console.WriteLine(summe); // 11
+```
+
+## 5. Durchschnitt von einem Array
+
+> Aufgabe
+
+* Schreibe eine Function namens "Average"
+* Diese Funktion soll ein Array mit element von type double als Parameter bekommen. Diese Funktion soll den Durchschnitt alle Elemente zurück gegeben.
+
+> Beispiel:
+
+```C#
+double[] numbers = new int[3];
+numbers[0] = 2;
+numbers[1] = 4;
+numbers[2] = 5;
+
+int summe = Average(numbers);
+Console.WriteLine(summe); // 3.0
+```
+
+## 6. Maximum von einem Array
+
+> Aufgabe
+
+* Schreibe eine Function namens "Maximum"
+* Diese Funktion soll ein Array mit element von type int als Parameter bekommen. Diese Funktion soll die größte Zahl alle Elemente zurück geben.
+
+> Beispiel:
+
+```C#
+double[] numbers = new int[3];
+numbers[0] = 2;
+numbers[1] = 4;
+numbers[2] = 5;
+
+int summe = Maximum(numbers);
+Console.WriteLine(summe); // 5
+```
+
+## 7. Minimum von einem Array
+
+> Aufgabe
+
+* Schreibe eine Function namens "Minimum"
+* Diese Funktion soll ein Array mit element von type int als Parameter bekommen. Diese Funktion soll die kleinste Zahl alle Elemente zurück geben.
+
+> Beispiel:
+
+```C#
+double[] numbers = new int[3];
+numbers[0] = 2;
+numbers[1] = 4;
+numbers[2] = 5;
+
+int summe = Minimum(numbers);
+Console.WriteLine(summe); // 2
+```
+
