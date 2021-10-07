@@ -81,7 +81,7 @@ Console.WriteLine(number);
 
 
 * Schreibe eine Function namens "SummeArray"
-* Diese Funktion soll eine Array mit element von type int als Parameter bekommen. Diese Funktion soll die Summe alle Element des Arrays zurück geben.
+* Diese Funktion soll eine Array mit element von type double als Parameter bekommen. Diese Funktion soll die Summe alle Element des Arrays zurück geben.
 
 > Beispiel:
 
@@ -119,7 +119,7 @@ Console.WriteLine(summe); // 3.0
 > Aufgabe
 
 * Schreibe eine Function namens "Maximum"
-* Diese Funktion soll ein Array mit element von type int als Parameter bekommen. Diese Funktion soll die größte Zahl alle Elemente zurück geben.
+* Diese Funktion soll ein Array mit element von type double als Parameter bekommen. Diese Funktion soll die größte Zahl alle Elemente zurück geben.
 
 > Beispiel:
 
@@ -138,7 +138,7 @@ Console.WriteLine(summe); // 5
 > Aufgabe
 
 * Schreibe eine Function namens "Minimum"
-* Diese Funktion soll ein Array mit element von type int als Parameter bekommen. Diese Funktion soll die kleinste Zahl alle Elemente zurück geben.
+* Diese Funktion soll ein Array mit element von type double als Parameter bekommen. Diese Funktion soll die kleinste Zahl alle Elemente zurück geben.
 
 > Beispiel:
 
